@@ -1,7 +1,7 @@
 {
-  "expression": "troubled",
+  "expression": "surprised",
   "duration": 30,
-  "message": "ZIPのリンクが開けないみたい。ファイル自体は正常なので渡し方を調整するのだ。",
-  "updated_at": "2026-10-24T12:28:02.480Z",
-  "sequence": 165
+  "message": "おおっ、動いたのだ！ ダウンロード成功かな？",
+  "updated_at": "2026-10-24T12:28:53.770Z",
+  "sequence": 166
 }
