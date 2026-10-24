@@ -1,7 +1,7 @@
 {
-  "expression": "smile",
-  "duration": 30,
-  "message": "実機テスト開始なのだ！ メルの画面が出ているか確認してね。",
-  "updated_at": "2026-10-24T12:29:25.579Z",
-  "sequence": 167
+  "expression": "surprised",
+  "duration": 45,
+  "message": "実機テスト②：驚き顔に切り替わるかな？",
+  "updated_at": "2026-10-24T12:30:03.450Z",
+  "sequence": 168
 }
