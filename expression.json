@@ -1,7 +1,7 @@
 {
-  "expression": "thinking",
-  "duration": 30,
-  "message": "新しいびっくり顔の方向性を比較中。採用までは旧画像を維持するのだ。",
-  "updated_at": "2026-10-24T12:56:43.486Z",
-  "sequence": 175
+  "expression": "surprised",
+  "duration": 40,
+  "message": "原因判明！v09からv12まで笑顔の画像がsurprisedに誤収録。images.zipには正しい驚き顔があるのだ！",
+  "updated_at": "2026-10-24T12:58:17.017Z",
+  "sequence": 176
 }
