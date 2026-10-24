@@ -1,7 +1,7 @@
 {
-  "expression": "surprised",
-  "duration": 45,
-  "message": "実機テスト②：驚き顔に切り替わるかな？",
-  "updated_at": "2026-10-24T12:30:03.450Z",
-  "sequence": 168
+  "expression": "thinking",
+  "duration": 30,
+  "message": "surprised画像はnormalにかなり似ていたよ。次は画像の対応を点検するのだ。",
+  "updated_at": "2026-10-24T12:40:13.292Z",
+  "sequence": 169
 }
